@@ -1,0 +1,9 @@
+<?php
+$HOST="localhost";
+$DB="nhu1421";
+$TABLE1="gbook";
+$USER="nhu1421";
+$PASS="TSVQD355";
+$FACE=array("普通","高興","難過","快樂");
+$PAGE=5;
+?>
